@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luis Ángel Terrazas García @LuisTerrazasG [website]
+- 👋 Hi, I’m Luis Ángel Terrazas García @LuisTerrazasG
 
 - 🦾 I'm a Student in Engineering of Robotics and Digital systems 
 
