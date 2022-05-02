@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning web development and advance embedded systems
 
-- 👨‍💼 2021 Goals: Get to know the labor industry
+- 👨‍💼 2022 Goals: Get to know the labor industry
 
 - 💞️ I’m looking to collaborate on any proyect releated to FPGA's, Web development or Microcontrollers
 
